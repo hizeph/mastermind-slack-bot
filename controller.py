@@ -67,7 +67,6 @@ class Controller:
 			if (rightPins < 8):
 				# Change n = 8 - rightPints
 				# Which n?
-				
 				pass
 
 		return "Opsie!"
